@@ -18,7 +18,7 @@
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png"><img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="max-width: 100%;"></a></p>
 
 💞️ I’m interested in developing interactive web and mobile apps <br>
-🌱 I’m currently taking my 4 years degree in Computer Engineering at <a href='https://www.must.ac.tz'>MUST</a><br>
+🌱 I’m currently taking my 4 years degree in Computer Engineering at <a href='https://www.must.ac.tz' target='_blank' title='Mbeya University of Science and Technology'>MUST</a><br>
 👯 I create, develop and sometimes collaborate on Open Source Projects <br>
 💬 Ask me about PHP and Flutter. <br> <br>
 ![](https://komarev.com/ghpvc/?username=CodeWithCrescent&color=blue&abbreviated=true) 
