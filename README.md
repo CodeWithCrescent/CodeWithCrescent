@@ -1,4 +1,4 @@
-## Full Stack Web & Mobile App Developer
+## Full Stack Web & Mobile Application Developer
 <p dir="auto">
 <a href="https://github.com/codeWithCrescent?tab=repositories"><img alt="HTML" title="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="https://github.com/codeWithCrescent?tab=repositories"><img alt="CSS3" title="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;"></a>
@@ -51,7 +51,7 @@
 <br>
 <br>
 
-Happy ``Pull`` & ``Push`` Guys, Wish to collaborate with you! 😄
+Happy ``Pull`` & ``Push`` Guys, Let's collaborate to develop things that make life easier! 😄
 
 
 ![](https://hit.yhype.me/github/profile?user_id=110913075)
