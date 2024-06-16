@@ -34,16 +34,19 @@
 [![Made in Tanzania](https://img.shields.io/badge/made%20in-tanzania-008751.svg)](https://github.com/Tanzania-Developers-Community/made-in-tanzania)  <br> <br>
 📫 Reach out to me via email at crescent.sambila@gmail.com, <a href="tel:+255676827992">+255 676 827 992 (Call)</a> / <a href="https://wa.me/255676827992" title='Click this link to whatsapp me'>+255 676 827 992 (WhatsApp)</a> <br><br>
 
+<div class="markdown-heading" dir="auto"><h1 class="heading-element" dir="auto">📊 GitHub Stats:</h1><a id="user-content--github-stats" class="anchor" aria-label="Permalink: 📊 GitHub Stats:" href="#-github-stats"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=codeWithCrescent&amp;count_private=true" align="left"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=codeWithCrescent&amp;count_private=true" style="max-width: 100%;">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeWithCrescent&amp;layout=compact" />
+</p>
+
 <h2 dir="auto"><a id="user-content--connect-with-me" class="anchor" aria-hidden="true" href="#-connect-with-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><g-emoji class="g-emoji" alias="earth_asia" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f30f.png">🏆</g-emoji> <strong>Github Trophy</strong></h2>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=codeWithCrescent&theme=gruvbox&row=1&column=7&margin-w=15&margin-h=15)
 
----
-
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=codeWithCrescent&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeWithCrescent&layout=compact" />
-</div>
+<div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">✍️ Random Dev Quote</h3><a id="user-content-️-random-dev-quote" class="anchor" aria-label="Permalink: ✍️ Random Dev Quote" href="#️-random-dev-quote"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/932e26dbf376364533513d7ffa2b27d129e73553aef03a5db592a1a43e3da5c9/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d686f72697a6f6e74616c267468656d653d6461726b"><img src="https://camo.githubusercontent.com/932e26dbf376364533513d7ffa2b27d129e73553aef03a5db592a1a43e3da5c9/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d686f72697a6f6e74616c267468656d653d6461726b" alt="" data-canonical-src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=dark" style="max-width: 100%;"></a></p>
 
 <h2 dir="auto"><a id="user-content--connect-with-me" class="anchor" aria-hidden="true" href="#-connect-with-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><g-emoji class="g-emoji" alias="earth_asia" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f30f.png">🌏</g-emoji> <strong>Connect with me</strong></h2>
 <a href="https://www.instagram.com/e.sscen__" rel="nofollow"> 
@@ -60,6 +63,5 @@
 <br>
 
 Happy ``Pull`` & ``Push`` Guys, Let's collaborate to develop things that make life easier! 😄
-
 
 ![](https://hit.yhype.me/github/profile?user_id=110913075)
