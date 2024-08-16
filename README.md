@@ -28,7 +28,7 @@
 👀 I create, develop and sometimes collaborate on Open Source Projects <br>
 💬 Ask me about PHP, Laravel and Flutter. <br> <br>
 
-![](https://komarev.com/ghpvc/?username=CodeWithCrescent&color=blue&abbreviated=true) 
+![Profile views](https://komarev.com/ghpvc/?username=CodeWithCrescent&color=blue&abbreviated=true)
 [![committers.top badge](https://user-badge.committers.top/tanzania/CodeWithCrescent.svg)](https://user-badge.committers.top/tanzania/CodeWithCrescent)
 ![Open Source Helpers](https://www.codetriage.com/phpmyadmin/phpmyadmin/badges/users.svg)
 [![Made in Tanzania](https://img.shields.io/badge/made%20in-tanzania-008751.svg)](https://github.com/Tanzania-Developers-Community/made-in-tanzania)  <br> <br>
