@@ -1,4 +1,8 @@
 ## Full Stack Web & Mobile Application Developer
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=008FF7&width=1080&lines=Hello+there+I+am+Crescent+Sambila%2C+a+full-time+learner+and+doer.;%F0%9F%8C%B1+I%E2%80%99m+currently+learning+and+working+on+Dart+%7C+PHP+%7C+Laravel+projects+and+APIs.;%F0%9F%A4%A9+I%E2%80%99m+open+to+collaborating+on+innovative+projects.;%F0%9F%93%AB+Reach+me%3A+crescent.sambila%40gmail.com+%7C+%2B255+676+827+992.;%E2%9A%A1+Fact%3A+%22The+best+way+to+predict+the+future+is+to+create+it%22.)](https://git.io/typing-svg)
+
+
 <p dir="auto">
 <a href="https://github.com/codeWithCrescent?tab=repositories"><img alt="HTML" title="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="https://github.com/codeWithCrescent?tab=repositories"><img alt="CSS3" title="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;"></a>
