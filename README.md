@@ -58,8 +58,6 @@
     <img title="Instagram" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;">
 </a>
 
-
-
 <a href="https://www.facebook.com/crescent.genius" rel="nofollow"> 
     <img title="Facebook" alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&amp;logo=Facebook&amp;logoColor=white" style="max-width: 100%;">
 </a>
