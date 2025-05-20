@@ -1,70 +1,103 @@
-## Full Stack Web & Mobile Application Developer
+# Crescent Sambila
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=008FF7&width=1080&lines=Hello+there+I+am+Crescent+Sambila%2C+a+full-time+learner+and+doer.;%F0%9F%8C%B1+I%E2%80%99m+currently+learning+and+working+on+Dart+%7C+PHP+%7C+Laravel+projects+and+APIs.;%F0%9F%A4%A9+I%E2%80%99m+open+to+collaborating+on+innovative+projects.;%F0%9F%93%AB+Reach+me%3A+crescent.sambila%40gmail.com+%7C+%2B255+676+827+992.;%E2%9A%A1+Fact%3A+%22The+best+way+to+predict+the+future+is+to+create+it%22.)](https://git.io/typing-svg)
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&random=false&width=600&height=70&lines=Full+Stack+Developer;Technology+Enthusiast;Problem+Solver;Innovation+Driven)](https://git.io/typing-svg)
 
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://github.com/codeWithCrescent)
+[![DRF](https://img.shields.io/badge/DRF-FF1709?style=for-the-badge&logo=django&logoColor=white)](https://github.com/codeWithCrescent)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/codeWithCrescent)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/codeWithCrescent)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/codeWithCrescent)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/codeWithCrescent)
+[![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/codeWithCrescent)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/codeWithCrescent)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/codeWithCrescent)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://github.com/codeWithCrescent)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/codeWithCrescent)
 
-<p dir="auto">
-<a href="https://github.com/codeWithCrescent?tab=repositories"><img alt="HTML" title="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;"></a>
-<a href="https://github.com/codeWithCrescent?tab=repositories"><img alt="CSS3" title="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;"></a>
-<a href="https://github.com/codeWithCrescent?tab=repositories"><img alt="JavaScript" title="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" style="max-width: 100%;"></a>
-<a href="https://github.com/codeWithCrescent?tab=repositories"><img alt="Bootstrap" title="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" style="max-width: 100%;"></a>
-<a href="https://github.com/codeWithCrescent?tab=repositories"><img alt="PHP" title="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white" style="max-width: 100%;"></a>
-<a href="https://github.com/codeWithCrescent?tab=repositories"><img alt="JQuery" title="JQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&amp;logo=jquery&amp;logoColor=white" style="max-width: 100%;"></a>
-<a href="https://github.com/codeWithCrescent?tab=repositories"><img alt="Flutter" title="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&amp;logo=flutter&amp;logoColor=white" style="max-width: 100%;"></a>
-<a href="https://github.com/codeWithCrescent?tab=repositories"><img alt="MySql" title="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" style="max-width: 100%;"></a>
-<a href="https://github.com/codeWithCrescent?tab=repositories"><img alt="Git" title="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&amp;logo=git&amp;logoColor=white" style="max-width: 100%;"></a>
-<a href="https://github.com/codeWithCrescent?tab=repositories"><img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white" style="max-width: 100%;"></a></p>
+</div>
 
-<br>
-<h2 dir="auto"><a id="user-content-fun-fact-" class="anchor" aria-hidden="true" href="#fun-fact-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Fun Fact <g-emoji class="g-emoji" alias="balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f388.png">🎈</g-emoji>:</h2>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codeWithCrescent&theme=react-dark&hide_border=true" width="95%"/>
+</div>
 
+## About Me 🚀
 
-<p dir="auto">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="">
-    <img align="left" height="250" src="https://github.com/user-attachments/assets/261f790f-53c2-42a4-87b6-ae2931ecdfdb" alt="crescent-qr" style="max-width: 100%;">
-  </a>
-</p>
+```typescript
+const crescent = {
+  name: "Crescent Sambila",
+  location: "Dar es Salaam, Tanzania",
+  education: "Computer Engineering @ MUST",
+  focus: "Full-Stack Development & System Architecture",
+  skills: {
+    frontend: ["Next.js", "TypeScript", "TailwindCSS", "React"],
+    backend: ["Django", "Django REST Framework", "Laravel", "PHP", "Node.js"],
+    mobile: ["Flutter", "Dart"],
+    database: ["PostgreSQL", "MySQL", "MongoDB"],
+    devops: ["Docker", "CI/CD"],
+    tools: ["Git", "Ubuntu", "AWS"],
+  },
+  currentlyLearning: ["System Design", "Cloud Architecture", "AI Integration"],
+  funFact: "The best way to predict the future is to create it"
+};
+```
 
+## My Stats 📊
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png"><img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="max-width: 100%;"></a></p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codeWithCrescent&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeWithCrescent&layout=compact&langs_count=6&hide_border=true&theme=tokyonight" />
+</div>
 
-☀️ I’m interested in developing interactive web and mobile apps<br>
-🌱 I have completed my degree in Computer Engineering at <a href='https://www.must.ac.tz' target='_blank' title='Mbeya University of Science and Technology'><font color='red'>MUST</font></a><br>
-👀 I create, develop, and sometimes collaborate on Open Source Projects<br>
-💬 Ask me about PHP, Laravel, and Flutter.<br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=CodeWithCrescent&theme=tokyonight&hide_border=true" width="70% alt="GitHub Streak" />
+</div>
 
-![Profile views](https://komarev.com/ghpvc/?username=CodeWithCrescent&color=blue&abbreviated=true)
+## What I'm Working On 💻
+
+- 🌱 Building scalable systems with Laravel, Django, PostgreSQL, and Docker
+- 🔭 Developing next-gen mobile apps with Flutter
+- ⚡ Exploring clean architectures with Laravel 
+- 🚀 Learning NextJS and TypeScript for modern frontend solutions
+
+<div align="center">
+  
+![Profile views](https://komarev.com/ghpvc/?username=CodeWithCrescent&color=0891B2&style=flat-square)
 [![committers.top badge](https://user-badge.committers.top/tanzania/CodeWithCrescent.svg)](https://user-badge.committers.top/tanzania/CodeWithCrescent)
-![Open Source Helpers](https://www.codetriage.com/phpmyadmin/phpmyadmin/badges/users.svg)
-[![Made in Tanzania](https://img.shields.io/badge/made%20in-tanzania-008751.svg)](https://github.com/Tanzania-Developers-Community/made-in-tanzania)  <br> <br>
-📫 Reach out to me via email at crescent.sambila@gmail.com, <a href="tel:+255676827992">+255 676 827 992 (Call)</a> / <a href="https://wa.me/255676827992" title='Click this link to whatsapp me'>+255 676 827 992 (WhatsApp)</a> <br><br>
+[![Made in Tanzania](https://img.shields.io/badge/made_in-tanzania-008751.svg?style=flat-square)](https://github.com/Tanzania-Developers-Community/made-in-tanzania)
 
-<div class="markdown-heading" dir="auto"><h1 class="heading-element" dir="auto">📊 GitHub Stats:</h1><a id="user-content--github-stats" class="anchor" aria-label="Permalink: 📊 GitHub Stats:" href="#-github-stats"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<p dir="auto">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=codeWithCrescent&amp;count_private=true" align="left"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeWithCrescent&amp;layout=compact" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=codeWithCrescent&amp;count_private=true" style="max-width: 100%;">
-</p>
+</div>
 
-<h2 dir="auto"><a id="user-content--connect-with-me" class="anchor" aria-hidden="true" href="#-connect-with-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><g-emoji class="g-emoji" alias="earth_asia" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f30f.png">🏆</g-emoji> <strong>Github Trophy</strong></h2>
+## Let's Connect 🌍
 
-![trophy](https://github-profile-trophy.vercel.app/?username=codeWithCrescent&theme=gruvbox&row=1&column=7&margin-w=15&margin-h=15)
+<div align="center">
+  <a href="mailto:crescent.sambila@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/255676827992">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/e.sscen__">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/crescent.genius">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</div>
 
-<div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">✍️ Random Dev Quote</h3><a id="user-content-️-random-dev-quote" class="anchor" aria-label="Permalink: ✍️ Random Dev Quote" href="#️-random-dev-quote"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/932e26dbf376364533513d7ffa2b27d129e73553aef03a5db592a1a43e3da5c9/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d686f72697a6f6e74616c267468656d653d6461726b"><img src="https://camo.githubusercontent.com/932e26dbf376364533513d7ffa2b27d129e73553aef03a5db592a1a43e3da5c9/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d686f72697a6f6e74616c267468656d653d6461726b" alt="" data-canonical-src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=dark" style="max-width: 100%;"></a></p>
+<div align="center">
+  <h3>⚡ Random Dev Quote</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%" />
+</div>
 
-<h2 dir="auto"><a id="user-content--connect-with-me" class="anchor" aria-hidden="true" href="#-connect-with-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><g-emoji class="g-emoji" alias="earth_asia" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f30f.png">🌏</g-emoji> <strong>Connect with me</strong></h2>
-<a href="https://www.instagram.com/e.sscen__" rel="nofollow"> 
-    <img title="Instagram" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;">
-</a>
+<div align="center">
+  <h3>🏆 GitHub Trophies</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=codeWithCrescent&theme=nord&column=7&no-frame=true" width="100%" />
+</div>
 
-<a href="https://www.facebook.com/crescent.genius" rel="nofollow"> 
-    <img title="Facebook" alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&amp;logo=Facebook&amp;logoColor=white" style="max-width: 100%;">
-</a>
+---
 
-<br>
-<br>
-
-Happy ``Pull`` & ``Push`` Guys, Let's collaborate to develop things that make life easier! 😄
-
-![](https://hit.yhype.me/github/profile?user_id=110913075)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</div>
