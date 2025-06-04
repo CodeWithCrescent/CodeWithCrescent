@@ -58,7 +58,7 @@ const crescent = {
 
 - 🌱 Building scalable systems with Laravel, Django, PostgreSQL, and Docker
 - 🔭 Developing next-gen mobile apps with Flutter
-- ⚡ Exploring clean architectures with Laravel 
+- ⚡ Exploring clean architectures and cloud platforms 
 - 🚀 Learning NextJS and TypeScript for modern frontend solutions
 
 <div align="center">
