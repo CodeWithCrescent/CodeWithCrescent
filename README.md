@@ -28,15 +28,15 @@
 const crescent = {
   name: "Crescent Sambila",
   location: "Dar es Salaam, Tanzania",
-  education: "Computer Engineering @ MUST",
+  education: "BEng. Computer Engineering @ MUST",
   focus: "Full-Stack Development & System Architecture",
   skills: {
-    frontend: ["Next.js", "TypeScript", "TailwindCSS", "React"],
-    backend: ["Django", "Django REST Framework", "Laravel", "PHP", "Node.js"],
+    frontend: ["Next.js", "TypeScript", "TailwindCSS", "Bootstrap 5"],
+    backend: ["Django", "Django REST Framework", "Laravel", "PHP", "Python"],
     mobile: ["Flutter", "Dart"],
-    database: ["PostgreSQL", "MySQL", "MongoDB"],
-    devops: ["Docker", "CI/CD"],
-    tools: ["Git", "Ubuntu", "AWS"],
+    database: ["PostgreSQL", "MySQL", "MongoDB", "SQLite"],
+    devops: ["Docker", "CI/CD", "Github Workflows"],
+    tools: ["Git", "Ubuntu", "AWS", "Traeffic"],
   },
   currentlyLearning: ["System Design", "Cloud Architecture", "AI Integration"],
   funFact: "The best way to predict the future is to create it"
