@@ -25,7 +25,7 @@
 ## About Me 🚀
 
 ```typescript
-const crescent = {
+const thisGuy = {
   name: "Crescent Sambila",
   location: "Dar es Salaam, Tanzania",
   education: "BEng. Computer Engineering @ MUST",
