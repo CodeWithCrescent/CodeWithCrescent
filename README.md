@@ -56,7 +56,7 @@ const thisGuy = {
 
 ## What I'm Working On 💻
 
-- 🌱 Building scalable systems with Laravel, Django, PostgreSQL, and Docker
+- 🌱 Building scalable systems with Laravel, Flutter, Django, PostgreSQL, and Docker
 - 🔭 Developing next-gen mobile apps with Flutter
 - ⚡ Exploring clean architectures and cloud platforms 
 - 🚀 Learning NextJS and TypeScript for modern frontend solutions
