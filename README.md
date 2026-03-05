@@ -29,7 +29,7 @@ const thisGuy = {
   name: "Crescent Sambila",
   location: "Dar es Salaam, Tanzania",
   education: "BEng. Computer Engineering @ MUST",
-  focus: "Full-Stack Development & System Architecture",
+  focus: "Full-Stack Development, System Architecture & Deployments",
   skills: {
     frontend: ["Next.js", "TypeScript", "TailwindCSS", "Bootstrap 5"],
     backend: ["Django", "Django REST Framework", "Laravel", "PHP", "Python"],
