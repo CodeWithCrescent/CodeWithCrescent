@@ -36,10 +36,10 @@ const thisGuy = {
     mobile: ["Flutter", "Dart"],
     database: ["PostgreSQL", "MySQL", "MongoDB", "SQLite"],
     devops: ["Docker", "CI/CD", "Github Workflows"],
-    tools: ["Git", "Ubuntu", "AWS", "Traeffic"],
+    tools: ["Git", "Ubuntu", "AWS", "Traeffic", "Portainer"],
   },
   currentlyLearning: ["System Design", "Cloud Architecture", "AI Integration"],
-  funFact: "The best way to predict the future is to create it"
+  Fact: "First, solve the problem. Then, write code that humans can understand."
 };
 ```
 
