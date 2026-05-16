@@ -1,8 +1,8 @@
-# Crescent Sambila
+# Eng. Crescent Sambila
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&random=false&width=600&height=70&lines=Full+Stack+Developer;Technology+Enthusiast;Problem+Solver;Innovation+Driven)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&random=false&width=600&height=70&lines=Full+Stack+Developer;Technology+Enthusiast;Problem+Solver;Innovation+Driven;Agentic+AI+Engineer+in+Making)](https://git.io/typing-svg)
 
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://github.com/codeWithCrescent)
 [![DRF](https://img.shields.io/badge/DRF-FF1709?style=for-the-badge&logo=django&logoColor=white)](https://github.com/codeWithCrescent)
@@ -20,6 +20,14 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=codeWithCrescent&theme=react-dark&hide_border=true" width="95%"/>
+</div>
+
+<div align="center">
+  
+![Profile views](https://komarev.com/ghpvc/?username=CodeWithCrescent&color=0891B2&style=flat-square)
+[![committers.top badge](https://user-badge.committers.top/tanzania/CodeWithCrescent.svg)](https://user-badge.committers.top/tanzania/CodeWithCrescent)
+[![Made in Tanzania](https://img.shields.io/badge/made_in-tanzania-008751.svg?style=flat-square)](https://github.com/Tanzania-Developers-Community/made-in-tanzania)
+
 </div>
 
 ## About Me 🚀
@@ -46,28 +54,24 @@ const thisGuy = {
 ## My Stats 📊
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codeWithCrescent&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeWithCrescent&layout=compact&langs_count=6&hide_border=true&theme=tokyonight" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codeWithCrescent&theme=tokyonight">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codeWithCrescent&theme=tokyonight">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=CodeWithCrescent&theme=tokyonight&hide_border=true" width="70% alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=CodeWithCrescent&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeWithCrescent&theme=tokyonight" >
 </div>
 
 ## What I'm Working On 💻
 
-- 🌱 Building scalable systems with Laravel, Flutter, Django, PostgreSQL, and Docker
+- 🌱 Building scalable systems with Laravel, Flutter, Django, PostgreSQL, NextJS, TypeScript and Docker
 - 🔭 Developing next-gen mobile apps with Flutter
 - ⚡ Exploring clean architectures and cloud platforms 
-- 🚀 Learning NextJS and TypeScript for modern frontend solutions
-
-<div align="center">
-  
-![Profile views](https://komarev.com/ghpvc/?username=CodeWithCrescent&color=0891B2&style=flat-square)
-[![committers.top badge](https://user-badge.committers.top/tanzania/CodeWithCrescent.svg)](https://user-badge.committers.top/tanzania/CodeWithCrescent)
-[![Made in Tanzania](https://img.shields.io/badge/made_in-tanzania-008751.svg?style=flat-square)](https://github.com/Tanzania-Developers-Community/made-in-tanzania)
-
-</div>
+- 🚀 Learning Agentic AI and Kubernetes
 
 ## Let's Connect 🌍
 
@@ -89,11 +93,6 @@ const thisGuy = {
 <div align="center">
   <h3>⚡ Random Dev Quote</h3>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%" />
-</div>
-
-<div align="center">
-  <h3>🏆 GitHub Trophies</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=codeWithCrescent&theme=nord&column=7&no-frame=true" width="100%" />
 </div>
 
 ---
